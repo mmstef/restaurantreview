@@ -242,6 +242,7 @@ nav h1 a {
     height: 200px;
     box-sizing: border-box;
     width: 100%;
+    padding-bottom: 60px;
   }
   .inside #maincontent {
     padding-top: 131px;
